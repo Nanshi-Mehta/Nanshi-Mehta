@@ -1,86 +1,90 @@
-# 👋 Hi, I'm Nanshi Mehta  
+Hi, I'm Nanshi Mehta
 
-🎓 B.Tech CSE (AI & ML) Student  
-💻 Full Stack Developer (MERN)  
-⚡ Exploring AI/ML & Building Real-World Projects  
+B.Tech CSE (AI & ML) Student
+Full Stack Developer (MERN)
+Exploring AI/ML & Building Real-World Projects
 
----
+About Me
 
-## 🚀 About Me
+Passionate and growth-driven Computer Science student with a strong interest in building scalable web applications and exploring Artificial Intelligence / Machine Learning technologies. I enjoy transforming ideas into real-world digital products through clean code, modern UI design, and practical problem-solving.
 
-Passionate Computer Science student focused on building modern web applications and exploring AI/ML. I enjoy solving real-world problems through clean and scalable code.
+Full Stack Developer specializing in MERN Stack
+Strong knowledge of Frontend + Backend Development
+Skilled in Tailwind CSS, Bootstrap, Material UI
+Currently exploring AI/ML concepts and applications
+Focused on building real-world projects with industry-level structure
+Preparing for Software Engineering opportunities
+Tech Stack
 
-- 🌐 Full Stack Developer (**MERN Stack**)
-- 🎨 Skilled in **Tailwind CSS, Material UI, Bootstrap**
-- 🧠 Currently learning **AI/ML**
-- ⚙️ Love building **real-world projects**
-- 🚀 Preparing for **Software Engineering roles**
+Languages: JavaScript, C, C++, Python (Basic), Java (Basic)
+Frontend: React.js, HTML5, CSS3, Tailwind CSS, Bootstrap, Material UI
+Backend: Node.js, Express.js
+Database: MongoDB
+Core Concepts: CRUD Operations, REST API, Authentication, Responsive Design
+Tools: Git, GitHub, VS Code, Hoppscotch, Postman
+UI Libraries: Font Awesome
 
----
+Featured Projects
+🚀 Zerodha Clone (Full Stack Trading Platform)
 
-## 🛠️ Tech Stack
+A modern full-stack stock trading platform inspired by Zerodha, developed using the MERN stack. This project focuses on clean UI, secure authentication, and real-time portfolio management experience.
 
-**Languages:** JavaScript, Python (Learning), C++ (Basic)  
-**Frontend:** React.js, HTML, CSS, Tailwind CSS, Bootstrap, Material UI  
-**Backend:** Node.js, Express.js  
-**Database:** MongoDB  
-**Tools:** Git, GitHub, VS Code, Postman  
-**UI Tools:** Font Awesome  
+Key Features:
+User Registration & Login Authentication
+Secure backend APIs using Node.js & Express.js
+Dashboard with modern trading interface
+Portfolio Management System
+Buy / Sell Stock UI Simulation
+Responsive Design for all devices
+CRUD Operations Implemented:
+Create: New user account creation, stock orders, portfolio entries
+Read: User profile data, holdings, watchlist, transaction history
+Update: Profile details, stock quantities, account settings
+Delete: Remove holdings, delete watchlist items, cancel orders
+Tech Used:
 
----
+React.js, Node.js, Express.js, MongoDB, Material UI
 
-## 🚀 Featured Projects
+🏠 Airbnb Clone
 
-### 📈 Zerodha Clone (Full Stack)
-- Built a trading platform UI similar to Zerodha  
-- Implemented **authentication system**
-- Created **dashboard & portfolio UI**
-- Designed **responsive UI using modern frameworks**
+A responsive property rental web application inspired by Airbnb. Designed with modern UI principles and clean user experience.
 
----
+Key Features:
+Property Listings Page
+Search & Filter UI
+Attractive Responsive Cards Layout
+Booking Interface Design
+Mobile Friendly Responsive UI
+CRUD Operations Implemented:
+Create: Add new property listings
+Read: View all properties and details
+Update: Edit property information
+Delete: Remove property listings
+Tech Used:
 
-### 🏡 Airbnb Clone
-- Developed a property listing platform  
-- Implemented **modern UI with Tailwind & Bootstrap**
-- Built **responsive and user-friendly interface**
+React.js, Tailwind CSS, Bootstrap, Node.js, MongoDB
 
----
+💻 Other Projects
 
-### 💻 Other Projects
-- Multiple frontend + full-stack projects using MERN  
-- Focus on **clean UI & responsive design**  
-- Practicing **real-world app development**
+Built multiple frontend and full-stack applications focused on solving practical problems and improving user experience.
 
----
+Examples:
+Authentication Systems
+Dashboard Panels
+CRUD Management Apps
+Portfolio Websites
+Responsive Landing Pages
+MERN Stack Real-World Projects
+What I Focus On
+Writing clean and maintainable code
+Building responsive and modern UI
+Creating scalable backend systems
+Learning new technologies continuously
+Solving real-world development problems
+Connect With Me
 
-## 📊 GitHub Stats
+📧 Email: nanshimehta5@gmail.com
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+🔗 LinkedIn: https://www.linkedin.com/in/nanshi-mehta-4a3538318
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight)
-
----
-
-## 🔥 Contribution Graph
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night)
-
----
-
-## 🏆 GitHub Trophies
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&margin-w=10)
-
----
-
-## 📫 Connect With Me
-
-📧 your-email@example.com  
-💼 LinkedIn: https://linkedin.com/in/YOUR_LINK  
-🐦 Twitter (X): https://x.com/YOUR_HANDLE  
-
----
-
-⭐ *If you like my work, feel free to connect and explore my repositories!*
+⭐ Open to internships, collaborations, and software development opportunities.
