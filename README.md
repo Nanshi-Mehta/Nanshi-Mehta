@@ -11,6 +11,7 @@
 Passionate and growth-driven Computer Science student with a strong interest in building scalable web applications and exploring AI/ML.
 
 - 🌐 Full Stack Developer (**MERN Stack**)  
+- 💻 Strong in **C++ (Data Structures & Algorithms)**  
 - 🎨 Skilled in **Tailwind CSS, Bootstrap, Material UI**  
 - ⚙️ Strong in **Frontend + Backend Development**  
 - 🧠 Exploring **AI/ML concepts & applications**  
